@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest6.4(1).cpp
+C:\Users\HP\source\repos\Lab6.4(1)\Lab6.4(1).cpp(85,6): warning C4101: 'i': unreferenced local variable
+     Creating library C:\Users\HP\source\repos\Lab6.4(1)\Debug\UnitTest6.4(1).lib and object C:\Users\HP\source\repos\Lab6.4(1)\Debug\UnitTest6.4(1).exp
+  UnitTest6.4(1).vcxproj -> C:\Users\HP\source\repos\Lab6.4(1)\Debug\UnitTest6.4(1).dll

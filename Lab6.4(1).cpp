@@ -77,13 +77,7 @@ void SortArray(int* a, int *b, const int size)
 			j++;
 		}
 	}
-	for (int i = 0; i < size; i++) 
-	{
-		cout << b[i] << " ";
-	}
-	return ;
 }
-
 int main()
 {
 	srand((unsigned)time(NULL));
@@ -101,7 +95,7 @@ int main()
 	cout << "Imax = " << Imax(a, n) << endl;
 	cout << "a*b = " << FindNull(a, n) << endl;
 	SortArray(a,b, n);
-	Print(a, n);
+	Print(b, n);
 	delete[] a;
 	delete[] b;
 	return 0;
